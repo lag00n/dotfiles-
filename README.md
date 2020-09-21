@@ -4,7 +4,7 @@
 
 <h4>Distro ->  Gentoo GNU/Linux</h4>
 <h4>Window Manager -> herbstluftwm (aka as better wm in world)</h4>
-<h4>I will be posting some cool Screenshots soon</h4>
+<h6>I will be posting some cool Screenshots soon</h6>
 
 <a href="https://lag00n.github.io">Check my blog for more cool stuff</a>
 
